@@ -16,7 +16,7 @@
         text: {
           autoStyleContainer: false
         },
-        from: { color: '#aaa', width: 7 },
+        from: { color: '#aaa', width: 6 },
         to: { color: '#57c7d4', width: 6 }
       });
 
